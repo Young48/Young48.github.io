@@ -162,11 +162,11 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #7AC5CD 0%, #87CEFF 100%);
+    background-image: linear-gradient(to right, #7AC5CD 0%, #4F94CD 100%);
 }
 
 .text-color {
-    color: #87CEFF !important;
+    color: #4F94CD !important;
 }
 
 /*头部导航栏样式*/
