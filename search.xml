@@ -4,21 +4,21 @@
   
     
     <entry>
-      <title>系统介绍：装备篇</title>
-      <link href="/Young48.github.io/2019/01/19/20190119/"/>
-      <url>/Young48.github.io/2019/01/19/20190119/</url>
+      <title>系统介绍：技能篇</title>
+      <link href="/Young48.github.io/2019/01/19/20190119skill/"/>
+      <url>/Young48.github.io/2019/01/19/20190119skill/</url>
       
-        <content type="html"><![CDATA[<p> &ensp;游戏中的装备类型分为武器、防具和法宝三个门类，</p><p>  <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="更换装备"><a href="#更换装备" class="headerlink" title="更换装备"></a>更换装备</h3><hr><p> &ensp;每个装备有基础属性和附加属性。击败地图boss，副本boss，使用矿石打造成的装备属性随机，按属性加成分为珍品，极品，神品。<br> &ensp;传说级别的装备会随主人一起成长，可遇不可求。  </p><p> <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h3><hr><p> &ensp;每个装备有基础属性和附加属性。击败地图boss，副本boss，使用矿石打造成的装备属性随机，按属性加成分为珍品，极品，神品。<br> &ensp;传说级别的装备会随主人一起成长，可遇不可求。  </p><p> <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="武器专精"><a href="#武器专精" class="headerlink" title="武器专精"></a>武器专精</h3><hr><p> &ensp;每位出战角色有自己的武器专精，当角色使用趁手的兵器时，战斗力上升。<br> &ensp;各角色擅长的武器类型如下：  </p><table><thead><tr><th>角色</th><th style="text-align:center">武器</th></tr></thead><tbody><tr><td>海张</td><td style="text-align:center">刀</td></tr><tr><td>夜华</td><td style="text-align:center">剑</td></tr><tr><td>奈何</td><td style="text-align:center">琴/剑</td></tr><tr><td>无情</td><td style="text-align:center">扇</td></tr><tr><td>动哥</td><td style="text-align:center">弩</td></tr><tr><td>动叔</td><td style="text-align:center">枪/戟</td></tr><tr><td>红魅</td><td style="text-align:center">匕首/扇</td></tr><tr><td>后羿</td><td style="text-align:center">弓</td></tr><tr><td>红魅</td><td style="text-align:center">匕首/扇</td></tr><tr><td>子建</td><td style="text-align:center">笔</td></tr><tr><td>月心</td><td style="text-align:center">琴</td></tr><tr><td>大志</td><td style="text-align:center">枕头</td></tr></tbody></table><hr><p>更多系统介绍见: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">伪致一科技发行组的微博</a></p>]]></content>
+        <content type="html"><![CDATA[<p> &ensp;游戏中的装备类型分为武器、防具和法宝三个门类，</p><p>  <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h2 id="技能类型"><a href="#技能类型" class="headerlink" title="技能类型"></a>技能类型</h2><h3 id="武术、法术、咒术"><a href="#武术、法术、咒术" class="headerlink" title="武术、法术、咒术"></a>武术、法术、咒术</h3><hr><p> &ensp;主菜单。  战斗中</p><table><thead><tr><th>技能类型</th><th style="text-align:center">命中率</th><th>暴击率</th><th>是否被护盾格挡</th><th>是否被反弹</th><th>克制状态</th></tr></thead><tbody><tr><td>武术</td><td style="text-align:center">中</td><td>高</td><td>是</td><td>否</td><td>麻痹</td></tr><tr><td>法术</td><td style="text-align:center">高</td><td>低</td><td>是</td><td>是</td><td>禁断</td></tr><tr><td>咒术</td><td style="text-align:center">低</td><td>无</td><td>否</td><td>否</td><td>沉默</td></tr></tbody></table><h3 id="天赋技能、后天技能"><a href="#天赋技能、后天技能" class="headerlink" title="天赋技能、后天技能"></a>天赋技能、后天技能</h3><p> &ensp;角色拥有自己的专属天赋技能，一阶角色拥有2个天赋技能，二阶和三阶角色最多可以习得3个天赋技能，天赋技能的威力受熟练度影响，使用次数达到要求技能会升级，部分技能满级后使用效果将发生质的飞跃。<br> &ensp;二阶角色等级达到20级时习得新的天赋技能。<br> &ensp;怒气技不受熟练度影响。</p><h3 id="装备技能"><a href="#装备技能" class="headerlink" title="装备技能"></a>装备技能</h3><p> &ensp;装备技能：部分武器/防具/法宝自带装备技能，穿着该装备自动获得技能。  </p><h3 id="召唤技"><a href="#召唤技" class="headerlink" title="召唤技"></a>召唤技</h3><p> &ensp;在战斗中召唤助战队员。</p><h3 id="合击技"><a href="#合击技" class="headerlink" title="合击技"></a>合击技</h3><p> &ensp;拥有缘分的角色一同出场时可施放。</p><h2 id="技能消耗"><a href="#技能消耗" class="headerlink" title="技能消耗"></a>技能消耗</h2><hr><p> &ensp;主菜单。  战斗中</p><h2 id="查看角色技能"><a href="#查看角色技能" class="headerlink" title="查看角色技能"></a>查看角色技能</h2><hr><p> &ensp;主菜单。  战斗中</p><p> <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="合击技-1"><a href="#合击技-1" class="headerlink" title="合击技"></a>合击技</h3><hr><p> &ensp;主菜单。  战斗中</p><h3 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h3><hr><p> &ensp;每个装备有基础属性和附加属性。击败地图boss，副本boss，使用矿石打造成的装备属性随机，按属性加成分为珍品，极品，神品。<br> &ensp;传说级别的装备会随主人一起成长，可遇不可求。  </p><p> <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="武器专精"><a href="#武器专精" class="headerlink" title="武器专精"></a>武器专精</h3><hr><p> &ensp;当角色使用趁手的兵器时，战斗力上升。<br> &ensp;各角色擅长的武器类型如下：  </p><table><thead><tr><th>角色</th><th style="text-align:center">武器</th></tr></thead><tbody><tr><td>海张</td><td style="text-align:center">刀</td></tr><tr><td>夜华</td><td style="text-align:center">剑</td></tr><tr><td>奈何</td><td style="text-align:center">琴/剑</td></tr><tr><td>无情</td><td style="text-align:center">扇</td></tr><tr><td>动哥</td><td style="text-align:center">弩</td></tr><tr><td>动叔</td><td style="text-align:center">枪/戟</td></tr><tr><td>红魅</td><td style="text-align:center">匕首/扇</td></tr><tr><td>后羿</td><td style="text-align:center">弓</td></tr><tr><td>子建</td><td style="text-align:center">笔</td></tr><tr><td>月心</td><td style="text-align:center">琴</td></tr><tr><td>大志</td><td style="text-align:center">枕头</td></tr></tbody></table><hr><p>更多系统介绍见: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">伪致一科技发行组的微博</a></p>]]></content>
       
       
       
         <tags>
             
-            <tag> 攻略 </tag>
-            
             <tag> 基本操作 </tag>
             
-            <tag> 装备 </tag>
+            <tag> 系统介绍 </tag>
+            
+            <tag> 技能 </tag>
             
         </tags>
       
@@ -27,26 +27,23 @@
     
     
     <entry>
-      <title>你好，这里是游戏仓库</title>
-      <link href="/Young48.github.io/2018/12/19/ni-hao-zhe-li-shi-you-xi-cang-ku/"/>
-      <url>/Young48.github.io/2018/12/19/ni-hao-zhe-li-shi-you-xi-cang-ku/</url>
+      <title>系统介绍：装备篇</title>
+      <link href="/Young48.github.io/2019/01/19/20190119/"/>
+      <url>/Young48.github.io/2019/01/19/20190119/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/Young48.github.io/2018/12/19/hello-world/"/>
-      <url>/Young48.github.io/2018/12/19/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p> &ensp;游戏中的装备类型分为武器、防具和法宝三个门类，</p><p>  <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="更换装备"><a href="#更换装备" class="headerlink" title="更换装备"></a>更换装备</h3><hr><p> &ensp;每个装备有基础属性和附加属性。击败地图boss，副本boss，使用矿石打造成的装备属性随机，按属性加成分为珍品，极品，神品。<br> &ensp;传说级别的装备会随主人一起成长，可遇不可求。  </p><p> <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h3><hr><p> &ensp;每个装备有基础属性和附加属性。击败地图boss，副本boss，使用矿石打造成的装备属性随机，按属性加成分为珍品，极品，神品。<br> &ensp;传说级别的装备会随主人一起成长，可遇不可求。  </p><p> <img src="https://s2.ax1x.com/2019/01/19/kC9ysH.jpg" alt=""></p><h3 id="武器专精"><a href="#武器专精" class="headerlink" title="武器专精"></a>武器专精</h3><hr><p> &ensp;当角色使用趁手的兵器时，战斗力上升。<br> &ensp;各角色擅长的武器类型如下：  </p><table><thead><tr><th>角色</th><th style="text-align:center">武器</th></tr></thead><tbody><tr><td>海张</td><td style="text-align:center">刀</td></tr><tr><td>夜华</td><td style="text-align:center">剑</td></tr><tr><td>奈何</td><td style="text-align:center">琴/剑</td></tr><tr><td>无情</td><td style="text-align:center">扇</td></tr><tr><td>动哥</td><td style="text-align:center">弩</td></tr><tr><td>动叔</td><td style="text-align:center">枪/戟</td></tr><tr><td>红魅</td><td style="text-align:center">匕首/扇</td></tr><tr><td>后羿</td><td style="text-align:center">弓</td></tr><tr><td>子建</td><td style="text-align:center">笔</td></tr><tr><td>月心</td><td style="text-align:center">琴</td></tr><tr><td>大志</td><td style="text-align:center">枕头</td></tr></tbody></table><hr><p>更多系统介绍见: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">伪致一科技发行组的微博</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 基本操作 </tag>
+            
+            <tag> 系统介绍 </tag>
+            
+            <tag> 装备 </tag>
+            
+        </tags>
       
     </entry>
     
