@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>系统介绍：装备篇</title>
+      <link href="/Young48.github.io/2019/01/19/20190119/"/>
+      <url>/Young48.github.io/2019/01/19/20190119/</url>
+      
+        <content type="html"><![CDATA[<p>游戏中的装备类型分为武器、防具和法宝三个门类，每个角色有自己的专精</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="属性"><a href="#属性" class="headerlink" title="属性"></a>属性</h3><pre><code>每个装备有基础属性和附加属性。击败地图boss，副本boss，使用矿石打造成的装备属性随机，按属性加成分为珍品，极品，神品。传说级别的装备会随主人一起成长，可遇不可求。</code></pre><h3 id="武器专精"><a href="#武器专精" class="headerlink" title="武器专精"></a>武器专精</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>更多系统介绍见: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">伪致一科技发行组的微博</a></p><pre class="line-numbers language-bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 攻略 </tag>
+            
+            <tag> 基本操作 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>你好，这里是游戏仓库</title>
       <link href="/Young48.github.io/2018/12/19/ni-hao-zhe-li-shi-you-xi-cang-ku/"/>
       <url>/Young48.github.io/2018/12/19/ni-hao-zhe-li-shi-you-xi-cang-ku/</url>
